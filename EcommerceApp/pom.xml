@@ -7,6 +7,13 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>EcommerceApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
+
+  <properties>
+<sonar.host.url>http://16.170.143.158:9000//</sonar.host.url>
+<sonar.login>admin</sonar.login>
+<sonar.password>Deepthi@1234</sonar.password> 
+</properties>
+
   <dependencies>
     
      <dependency>
